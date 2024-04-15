@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\SharpDevelop Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\admin\Documents\SharpDevelop Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\admin\Documents\SharpDevelop Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\SharpDevelop Projects\LoginForm\LoginForm\obj\Debug\LoginForm.MainForm.resources
+C:\Users\admin\Documents\SharpDevelop Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\SharpDevelop Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\admin\Documents\SharpDevelop Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
